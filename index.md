@@ -1,4 +1,4 @@
 ---
-A blog about something: Bienvenidos
+title: Bienvenidos
 ---
 
