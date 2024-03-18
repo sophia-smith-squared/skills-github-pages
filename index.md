@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+abeginnerblog: A blog about something: Bienvenidos
 ---
 
